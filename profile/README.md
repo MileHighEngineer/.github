@@ -18,7 +18,7 @@ Check out the repositories here to dive into specific projects. Each one usually
 ## Let's Connect
 
 - 📺 [YouTube Channel](https://www.youtube.com/@milehighengineer)
-- [Instagram](https://www.instagram.com/milehighengineer/)
+- 📸 [Instagram](https://www.instagram.com/milehighengineer/)
 - 💬 Got questions or suggestions? Open an issue or reach out!
 
 ---
